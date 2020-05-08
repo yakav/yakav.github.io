@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Cybersecurity Blog!</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Cybersecurity Blog!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 17:08:16 -0700</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/blog/</link>
+      <pubDate>Thu, 07 May 2020 17:08:16 -0700</pubDate>
+      
+      <guid>/blog/blog/</guid>
+      <description>testtttt doaay!!</description>
+    </item>
+    
+  </channel>
+</rss>
